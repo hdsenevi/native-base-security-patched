@@ -1,5 +1,5 @@
 {
-  "name": "native-base",
+  "name": "native-base-security-patched",
   "description": "Essential cross-platform UI components for React Native",
   "sideEffects": false,
   "keywords": [
@@ -36,7 +36,7 @@
       "prettier --write"
     ]
   },
-  "version": "3.4.28",
+  "version": "3.4.25",
   "license": "MIT",
   "private": false,
   "main": "lib/commonjs/index",
